@@ -2,7 +2,7 @@
 <p> Created a chatbot that caters to any question you might have related to my Research paper titled: <b>Unvieling the Power of Random Subspace Selection. </b>
 <a href="https://drive.google.com/file/d/1L2XxzICznYL1R9UGIqXESjv033dJ1aqL/view?usp=sharing">You can find the paper here </a> </p>
 
-An overview of the Research paper:
+<h2>An overview of the Research paper:</h2>
 <li>Evaluated Random Subspace Selection (RSS) across 5+ machine learning algorithms, demonstrating its
 effectiveness in reducing overfitting and improving generalization.</li>
 <li>Tested RSS on 3+ domain datasets and compared performance of RSS-enabled models against traditional
