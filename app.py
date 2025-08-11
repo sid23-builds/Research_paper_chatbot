@@ -10,6 +10,7 @@ from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import START, StateGraph
 import streamlit as st
 import os
+
 from huggingface_hub import snapshot_download
 from dotenv import load_dotenv
 load_dotenv()
@@ -26,7 +27,6 @@ text_splitter = RecursiveCharacterTextSplitter(
 )
 all_splits = text_splitter.split_documents(docs)
 snapshot_download(repo_id="BAAI/bge-small-en")
-
 model_name = "BAAI/bge-small-en"
 model_kwargs = {"device": "cpu"}
 encode_kwargs = {"normalize_embeddings": True}
