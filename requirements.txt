@@ -1,0 +1,15 @@
+langchain_community
+langchain_core
+langchain-mistralai
+python-dotenv
+streamlit
+langserve
+fastapi
+uvicorn
+sse_starlette
+langchain_nvidia_ai_endpoints
+pypdf
+langchain_text_splitters
+typing_extensions
+langgraph
+typing
