@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 os.environ["MISTRAL_API_KEY"] = os.getenv("MISTRAL_RAG_API_KEY")
 
-file_path="/Users/sidharthjain/Desktop/Data Science Projects/Chatbot/RAG chatbot/BTP_Final_Report (1).pdf"
+file_path="Research_paper_chatbot/BTP_Final_Report (1).pdf"
 
 loader = PyPDFLoader(file_path)
 docs=loader.load()
