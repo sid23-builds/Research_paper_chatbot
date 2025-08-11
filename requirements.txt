@@ -13,3 +13,4 @@ langchain_text_splitters
 typing_extensions
 langgraph
 typing
+sentence-transformers
