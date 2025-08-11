@@ -28,7 +28,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 all_splits = text_splitter.split_documents(docs)
 snapshot_download(repo_id="BAAI/bge-small-en")
 model_name = "BAAI/bge-small-en"
-
+model_kwargs = {"device": "cpu"}
 encode_kwargs = {"normalize_embeddings": True}
 hf = HuggingFaceBgeEmbeddings(
     model_name=model_name, model_kwargs=model_kwargs, encode_kwargs=encode_kwargs
