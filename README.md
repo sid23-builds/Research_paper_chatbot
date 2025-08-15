@@ -30,7 +30,8 @@ baselines using metrics (accuracy, precision, recall, F1).</li>
 
 2. Retains memory
 
-    <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 34 13 PM" src="https://github.com/user-attachments/assets/f65b2fc1-acc5-458a-8795-47ab35e3c4aa" />
+   <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 34 13 PM" src="https://github.com/user-attachments/assets/f65b2fc1-acc5-458a-8795-47ab35e3c4aa" />
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------
    <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 34 45 PM" src="https://github.com/user-attachments/assets/7445b0a6-7969-47df-8a97-9dee0bf0048b" />
 
 4. Answering after retrieving relevant context document
@@ -45,8 +46,8 @@ baselines using metrics (accuracy, precision, recall, F1).</li>
 
 
 <h2>Possible Future Enhancements</h2>
-<l1> Equip the chatbot with more tools such as Wikipedia for accurate answering and reducing hallucinations</l1>
-<l1> Incorporate multi-user functionality</l1>
+<li> Equip the chatbot with more tools such as Wikipedia for accurate answering and reducing hallucinations</li>
+<li> Incorporate multi-user functionality</li>
 
 
 <b><i> Please feel free to hmu on jainsidharth230802@gmail.com for further suggestions </i></b>
