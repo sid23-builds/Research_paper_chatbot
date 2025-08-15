@@ -20,7 +20,7 @@ from langgraph.prebuilt import ToolNode
 
 os.environ["MISTRAL_API_KEY"] = os.getenv("MISTRAL_RAG_API_KEY")
 
-file_path="/Users/sidharthjain/Desktop/Data Science Projects/Chatbot/RAG chatbot/BTP_Final_Report (1).pdf"
+file_path="BTP_Final_Report (1).pdf"
 
 loader = PyPDFLoader(file_path)
 docs=loader.load()
