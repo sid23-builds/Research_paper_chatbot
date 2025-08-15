@@ -155,7 +155,7 @@ if 'graph' not in st.session_state:
 
 
 
-st.title("RAG Chatbot with Langchain Memory")
+st.title("RAG Chatbot with Memory")
 input_text = st.text_input("Enter your prompt here")
 
 config = {"configurable": {"thread_id": "abc234"}}
