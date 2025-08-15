@@ -16,4 +16,14 @@ baselines using metrics (accuracy, precision, recall, F1).</li>
 <li>1. Memory is preserved i.e. if you tell the chatbot your name, most probably it will remember you.</li>
 <li>2. Makes decision to retrieve/not retrieve the context document on the basis of the input query. I mean a "Hello" can be answered directly right?!</li>
 <li>3. LLM used is MistralAI's mistral-large-latest</li>
-<li>4. Technologies used: Langchain, Streamlit,Python</li>
+<li>4. Technologies used: Langchain, Streamlit,Python, RAG</li>
+
+<h2> Working of the chatbot </h2>
+
+
+
+
+<h2>Example input-output Pairs</h2>
+1. Acting as a normal chatbot, no retrieval of the context document
+
+
