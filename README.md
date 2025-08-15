@@ -16,5 +16,5 @@ this started as a thought of progressing towards building AI agents and preservi
 <h2> Features</h2>
 <li>1. Memory is preserved i.e. if you tell the chatbot your name, most probably it will remember you.</li>
 <li>2. Makes decision to retrieve/not retrieve the context document on the basis of the input query. I mean a "Hello" can be answered directly right?!</li>
-<li>3. LLM used is MistralAI's mistral-small</li>
-<li>4. Technologies used: Langchain, Streamlit</li>
+<li>3. LLM used is MistralAI's mistral-large-latest</li>
+<li>4. Technologies used: Langchain, Streamlit,Python</li>
