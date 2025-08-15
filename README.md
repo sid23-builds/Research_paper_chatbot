@@ -25,13 +25,15 @@ baselines using metrics (accuracy, precision, recall, F1).</li>
 
 <h2>Example input-output Pairs</h2>
 1. Acting as a normal chatbot, no retrieval of the context document
-   <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 28 46 PM" src="https://github.com/user-attachments/assets/207835ad-0003-459f-96a8-ea5957e38d6c" />
+   <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 28 46 PM" src="https://github.com/user-attachments/assets/d4b0b85e-9b4d-4b95-bc3f-34096e29b0a1" />
+
 
 2. Retains memory
-   <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 34 13 PM" src="https://github.com/user-attachments/assets/f65b2fc1-acc5-458a-8795-47ab35e3c4aa" />
+
+    <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 34 13 PM" src="https://github.com/user-attachments/assets/f65b2fc1-acc5-458a-8795-47ab35e3c4aa" />
    <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 34 45 PM" src="https://github.com/user-attachments/assets/7445b0a6-7969-47df-8a97-9dee0bf0048b" />
 
-3. Answering after retrieving relevant context document
+4. Answering after retrieving relevant context document
    <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 30 16 PM" src="https://github.com/user-attachments/assets/40dd71aa-61ef-4f88-99ec-f50c864ed354" />
 
 
