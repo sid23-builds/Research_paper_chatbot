@@ -10,8 +10,7 @@ baselines using metrics (accuracy, precision, recall, F1).</li>
 </p>
 
 <h2> Motivation behind the project</h2>
-<p> I basically got tired of giving answers to questions such as what exactly the research was about, what were the results etc. This is also the time I came across AI agents. Thus,
-this started as a thought of progressing towards building AI agents and preserving something that I spent my final year of college on.</p>
+<p> Picked this project as I was interested in undrstanding what AI Agents are and how they work. Came across a technique called Retrieval Augmental Generation(RAG) and thought "Why not use this to understand Ai agents and also preserve something that I spent my final year of college on?" </p>
 
 <h2> Features</h2>
 <li>1. Memory is preserved i.e. if you tell the chatbot your name, most probably it will remember you.</li>
