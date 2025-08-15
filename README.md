@@ -31,7 +31,7 @@ baselines using metrics (accuracy, precision, recall, F1).</li>
    <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 34 13 PM" src="https://github.com/user-attachments/assets/f65b2fc1-acc5-458a-8795-47ab35e3c4aa" />
    <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 34 45 PM" src="https://github.com/user-attachments/assets/7445b0a6-7969-47df-8a97-9dee0bf0048b" />
 
-3. Answering after retrieving relevant context
+3. Answering after retrieving relevant context document
    <img width="717" height="324" alt="Screenshot 2025-08-15 at 2 30 16 PM" src="https://github.com/user-attachments/assets/40dd71aa-61ef-4f88-99ec-f50c864ed354" />
 
 
