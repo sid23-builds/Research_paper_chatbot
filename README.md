@@ -45,5 +45,8 @@ baselines using metrics (accuracy, precision, recall, F1).</li>
 
 
 <h2>Possible Future Enhancements</h2>
+<l1> Equip the chatbot with more tools such as Wikipedia for accurate answering and reducing hallucinations</l1>
+<l1> Incorporate multi-user functionality</l1>
 
 
+<b><i> Please feel free to hmu on jainsidharth230802@gmail.com for further suggestions </i></b>
